@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpcarlos
 - 👀 I’m interested in software deveplopment and learning every day
-- 🌱 I’m currently learning about software architecture
+- 🌱 I’m currently learning about hexagonal architecture
 
 ### You can guess the future but, you can build it.
 
