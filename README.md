@@ -2,7 +2,7 @@
 - 👀 I’m interested in software deveplopment and learning every day
 - 🌱 I’m currently learning about hexagonal architecture
 
-### You can guess the future but, you can build it.
+### You can't guess the future but, you can build it.
 
 <!---
 vpcarlos/vpcarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
