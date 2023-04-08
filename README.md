@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 - 👋 Hi, I’m @vpcarlos
 - 👀 I’m interested in software deveplopment and learning every day
 - 🌱 I’m currently learning about hexagonal architecture
