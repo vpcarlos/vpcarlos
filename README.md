@@ -1,11 +1,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-- 👋 Hi, I’m @vpcarlos.
-- 🇵🇪 From Perú.
-- 👀 I’m interested in software deveplopment and learning every day.
-- 🌱 I’m currently learning about hexagonal architecture, clean code and design patterns.
+[![GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vpcarlos&layout=compact&theme=dark)](https://git.io/streak-stats)
 
 ### You can't guess the future but, you can build it.
+
+🇵🇪 From Perú to the world.
 
 <!---
 vpcarlos/vpcarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
