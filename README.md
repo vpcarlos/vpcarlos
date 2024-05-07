@@ -4,7 +4,7 @@
 
 ### You can't guess the future but, you can build it.
 
-🇵🇪 From Perú
+🇵🇪 From Arequipa
 
 <!---
 vpcarlos/vpcarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
